@@ -3,7 +3,18 @@
 
 ### `objective_one.py` 
 
-TBF.
+The python code for the first objective, i.e., better overall citizen satisfaction.
+
+##### Requirements:
+
+* numpy
+* pandas 
+
+##### Input:
+The grid level population information. `pop.csv` serves as an example here for the City of Cambridge.
+
+##### Output:
+The selected grid result.
 
 ### `objective_two.py`
 
