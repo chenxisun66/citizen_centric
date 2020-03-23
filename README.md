@@ -1,5 +1,6 @@
 # citizen_centric
 
+If you have any questions, feel free to contact chenxisun@outlook.com
 
 ### `objective_one.py` 
 
